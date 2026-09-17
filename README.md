@@ -1,4 +1,4 @@
-# Opening and Closing Operations Using OpenCV
+# EXP 10- Opening and Closing Operations Using OpenCV
 
 ## Aim
 
