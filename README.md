@@ -53,7 +53,6 @@ Create a structuring element (kernel) of suitable size.
 
 Compare the original, opened, and closed images.
 
-## Program
 
 ## Developed By
 
@@ -61,7 +60,6 @@ Compare the original, opened, and closed images.
 
 **Register No:** 212224240052
 
-## Output
 ## PROGRAM
 ```
 import cv2
@@ -78,6 +76,7 @@ def display_img(img):
     ax.imshow(img,cmap='gray')
     plt.show()
 ```
+## Output
 
 ### Original Image
 
@@ -90,6 +89,7 @@ def display_img(img):
 ### Closing Operation
 
 <img width="826" height="817" alt="download" src="https://github.com/user-attachments/assets/4d325440-f187-439d-8a22-164bbebbc53d" />
+
 ## Applications
 
 ### Opening
